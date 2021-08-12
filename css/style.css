@@ -123,9 +123,9 @@
             transform: translateY(-900px) rotate(600deg);
   }
 }
-/***                                  ÄÚÈÝÇøÓò                                 ***/
-/**                                   µÚÒ»²¿·Ö                                  **/
-/*ºÐ×Ó*/
+/***                                  ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½                                 ***/
+/**                                   ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½                                  **/
+/*ï¿½ï¿½ï¿½ï¿½*/
 .ly-box01 {
 	width:50px;
 	height:50px;
@@ -298,7 +298,7 @@
 		left: 20%;
 	}
 }
-/*ÎÄ±¾*/
+/*ï¿½Ä±ï¿½*/
 .ly-txt01 {
 	position:absolute;
 	width: 40%;
@@ -598,8 +598,8 @@
 	90% {opacity:1;margin-top:0;}
 	100% {opacity:0;margin-top:0;}
 }
-/**                                      µÚ¶þ²¿·Ö                                       **/
-/*Ê±¼äÖáµÄÏß*/
+/**                                      ï¿½Ú¶ï¿½ï¿½ï¿½ï¿½ï¿½                                       **/
+/*Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/
 
 .timeline {
 	width: 8px;
@@ -617,7 +617,7 @@
 	top:0;
 	transition-delay: 0.1s;
 }
-/*Ê±¼äÖáÉÏµÄµã*/
+/*Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ÏµÄµï¿½*/
 .timepoint {
 	width: 20px;
 	height: 20px;
@@ -638,7 +638,7 @@
 	opacity: 1;
 	transition-delay: 2s;
 }
-/**Ê±¼äÖáÉÏµÄµã**/
+/**Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ÏµÄµï¿½**/
 .timepoint11 {
 	width: 20px;
 	height: 20px;
@@ -660,7 +660,7 @@
 	transition-delay: 2s;
 }
 
-/* ºÐ×Ó */
+/* ï¿½ï¿½ï¿½ï¿½ */
 .ly-box11 {
 	width: 30%;
 	height: 600px;
@@ -683,7 +683,7 @@
 	transform: scale(1, 1);
 	transition-delay: 2.5s;
 }
-/*Ð¡Èý½Ç*/
+/*Ð¡ï¿½ï¿½ï¿½ï¿½*/
 .ly-triangle11 {
 	width: 0; 
 	height: 0; 
@@ -727,7 +727,7 @@
 	width: 100%;
 	bottom: 0;
 }
-/*ÎÄ±¾*/
+/*ï¿½Ä±ï¿½*/
 .ly-txt11 {
 	font-family: Microsoft YaHei;
 	font-size: 30px;
@@ -764,7 +764,7 @@
 	transition-delay: 4s;
 }
 
-/* ºÐ×Ó */
+/* ï¿½ï¿½ï¿½ï¿½ */
 .ly-box12 {
 	width: 40%;
 	height: 600px;
@@ -787,7 +787,7 @@
 	transform: scale(1, 1);
 	transition-delay: 5s;
 }
-/*Ð¡Èý½Ç*/
+/*Ð¡ï¿½ï¿½ï¿½ï¿½*/
 .ly-triangle12 {
 	width: 0; 
 	height: 0; 
@@ -811,7 +811,7 @@
 	transform: scale(1, 1);
 	transition-delay: 6s;
 }
-/*ÎÄ±¾*/
+/*ï¿½Ä±ï¿½*/
 .ly-txt13 {
 	font-family: Microsoft YaHei;
 	font-size: 30px;
@@ -850,9 +850,9 @@
 	transition-delay: 6.5s;
 }
 
-/**                                        µÚÈý²¿·Ö                                  **/
+/**                                        ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½                                  **/
 
-/**Ê±¼äÖáÉÏµÄµã**/
+/**Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ÏµÄµï¿½**/
 .timepoint21 {
 	width: 20px;
 	height: 20px;
@@ -874,7 +874,7 @@
 	transition-delay: 1.5s;
 }
 
-/* ºÐ×Ó */
+/* ï¿½ï¿½ï¿½ï¿½ */
 .ly-box21 {
 	width: 15%;
 	height: 600px;
@@ -897,7 +897,7 @@
 	transform: scale(1, 1);
 	transition-delay: 2.5s;
 }
-/*Ð¡Èý½Ç*/
+/*Ð¡ï¿½ï¿½ï¿½ï¿½*/
 .ly-triangle21 {
 	width: 0; 
 	height: 0; 
@@ -926,7 +926,7 @@
 	position: absolute;
 	bottom: 0;
 	width: 100%;
-	height: 70%;
+	height: 50%;
 	border-radius: 8px;
 	opacity:0;
 	overflow: hidden;
@@ -941,7 +941,7 @@
 	width: 100%;
 	bottom: 0;
 }
-/*ÎÄ±¾*/
+/*ï¿½Ä±ï¿½*/
 .ly-txt21 {
 	font-family: Microsoft YaHei;
 	font-size: 30px;
@@ -977,7 +977,7 @@
 	transition-delay: 4s;
 }
 
-/* ºÐ×Ó */
+/* ï¿½ï¿½ï¿½ï¿½ */
 .ly-box22 {
 	width: 15%;
 	height: 510px;
@@ -1000,7 +1000,7 @@
 	transform: scale(1, 1);
 	transition-delay: 5s;
 }
-/*Ð¡Èý½Ç*/
+/*Ð¡ï¿½ï¿½ï¿½ï¿½*/
 .ly-triangle22 {
 	width: 0; 
 	height: 0; 
@@ -1024,7 +1024,7 @@
 	transform: scale(1, 1);
 	transition-delay: 6s;
 }
-/*ÎÄ±¾*/
+/*ï¿½Ä±ï¿½*/
 .ly-txt23 {
 	font-family: Microsoft YaHei;
 	font-size: 30px;
@@ -1079,10 +1079,11 @@
 .ly-img22{
 	position: absolute;
 	width: 100%;
+	height: 40%;
 	bottom: 0;
 }
 
-/* ºÐ×Ó */
+/* ï¿½ï¿½ï¿½ï¿½ */
 .ly-box23 {
 	width: 34%;
 	height: 0;
@@ -1101,7 +1102,7 @@
 	height:600px;
 	transition-delay: 8s;
 }
-/*Ð¡Èý½Ç*/
+/*Ð¡ï¿½ï¿½ï¿½ï¿½*/
 .ly-triangle23 {
 	width: 0; 
 	height: 0; 
@@ -1125,7 +1126,7 @@
 	transform: scale(1, 1);
 	transition-delay: 12s;
 }
-/*ÎÄ±¾*/
+/*ï¿½Ä±ï¿½*/
 .ly-txt25 {
 	font-family: Microsoft YaHei;
 	font-size: 30px;
@@ -1186,9 +1187,9 @@
 
 
 
-/**                                      µÚËÄ²¿·Ö                                    **/
+/**                                      ï¿½ï¿½ï¿½Ä²ï¿½ï¿½ï¿½                                    **/
 
-/**Ê±¼äÖáÉÏµÄµã**/
+/**Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ÏµÄµï¿½**/
 .timepoint31 {
 	width: 20px;
 	height: 20px;
@@ -1209,7 +1210,7 @@
 	top:15.5%;
 	transition-delay: 2s;
 }
-/* ºÐ×Ó */
+/* ï¿½ï¿½ï¿½ï¿½ */
 .ly-box31 {
 	width: 30%;
 	height: 600px;
@@ -1232,7 +1233,7 @@
 	transform: scale(1, 1);
 	transition-delay: 2.5s;
 }
-/*Ð¡Èý½Ç*/
+/*Ð¡ï¿½ï¿½ï¿½ï¿½*/
 .ly-triangle31 {
 	width: 0; 
 	height: 0; 
@@ -1276,7 +1277,7 @@
 	width: 100%;
 	bottom: 0;
 }
-/*ÎÄ±¾*/
+/*ï¿½Ä±ï¿½*/
 .ly-txt31 {
 	font-family: Microsoft YaHei;
 	font-size: 30px;
@@ -1313,7 +1314,7 @@
 	transition-delay: 4s;
 }
 
-/* ºÐ×Ó */
+/* ï¿½ï¿½ï¿½ï¿½ */
 .ly-box32 {
 	width: 40%;
 	height: 400px;
@@ -1336,7 +1337,7 @@
 	transform: scale(1, 1);
 	transition-delay: 5s;
 }
-/*Ð¡Èý½Ç*/
+/*Ð¡ï¿½ï¿½ï¿½ï¿½*/
 .ly-triangle32 {
 	width: 0; 
 	height: 0; 
@@ -1360,7 +1361,7 @@
 	transform: scale(1, 1);
 	transition-delay: 6s;
 }
-/*ÎÄ±¾*/
+/*ï¿½Ä±ï¿½*/
 .ly-txt33 {
 	font-family: Microsoft YaHei;
 	font-size: 30px;
@@ -1418,7 +1419,7 @@
 	bottom: 0;
 }
 
-/*ºóÐøÐÞÕý*/
+/*ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/
 
 .ly-box51 {
 	width: 34%;
@@ -1787,7 +1788,7 @@
 }
 
 .ly-box81 {
-	width: 15%;
+	width: 20%;
 	height: 600px;
 	border: 2px #CCC;
 	background-color: #fff;
@@ -1830,7 +1831,7 @@
 	position: absolute;
 	bottom: 0;
 	width: 100%;
-	height: 90%;
+	height: 45%;
 	border-radius: 8px;
 	opacity:0;
 	overflow: hidden;
@@ -1843,18 +1844,19 @@
 .ly-img81{
 	position: absolute;
 	width: 100%;
+	height: 100%;
 	bottom: 0;
 }
 
 .ly-box82 {
-	width: 54%;
+	width: 30%;
 	height: 600px;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
 	border-radius: 8px;
 	position: absolute;
-	left: 42%;
+	left: 52%;
 	top:10%;
 	overflow: hidden;
 	opacity: 0;
@@ -1868,7 +1870,7 @@
 	transform: scale(1, 1);
 	transition-delay: 5s;
 }
-/*Ð¡Èý½Ç*/
+/*Ð¡ï¿½ï¿½ï¿½ï¿½*/
 .ly-triangle82 {
 	width: 0; 
 	height: 0; 
@@ -1878,7 +1880,7 @@
 	border-radius: 2px; 
 	margin-left: 24px;
 	position: absolute;
-	right: 58%;
+	right: 48%;
 	top: 14%;
 	opacity: 0;
 	-webkit-transform: scale(0.5, 0.5);
@@ -1892,7 +1894,7 @@
 	transform: scale(1, 1);
 	transition-delay: 6s;
 }
-/*ÎÄ±¾*/
+/*ï¿½Ä±ï¿½*/
 
 
 .ly-txt84 {
